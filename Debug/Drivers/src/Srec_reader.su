@@ -1,0 +1,5 @@
+../Drivers/src/Srec_reader.c:24:16:convert_to_hex	24	static
+../Drivers/src/Srec_reader.c:47:16:convert_twoHex2byte	32	static
+../Drivers/src/Srec_reader.c:55:17:convert_16bit2dec	32	static
+../Drivers/src/Srec_reader.c:67:17:convert_24bit2dec	32	static
+../Drivers/src/Srec_reader.c:82:16:parseData	48	static

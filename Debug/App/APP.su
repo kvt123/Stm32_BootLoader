@@ -1,0 +1,13 @@
+D:/stm32_cube sofware/embeded_stm32/test_8/Drivers/inc/core_cm3.h:1204:22:__enable_irq	4	static,ignoring_inline_asm
+D:/stm32_cube sofware/embeded_stm32/test_8/Drivers/inc/core_cm3.h:1205:22:__disable_irq	4	static,ignoring_inline_asm
+../App/APP.c:51:6:RCC_Configuration	8	static
+../App/APP.c:60:6:NVIC_Configuration	16	static
+../App/APP.c:75:6:USART_Configuration	24	static
+../App/APP.c:97:6:GPIO_Configuration	16	static
+../App/APP.c:133:6:USART1_transmit_string	24	static
+../App/APP.c:150:6:Erase_Multi_Sector	24	static
+../App/APP.c:159:10:Format_data4byte_ToWriteFlash	24	static
+../App/APP.c:168:6:app_init	8	static
+../App/APP.c:189:6:jump_To_Boot	120	static
+../App/APP.c:257:6:Jump_To_App	8	static
+../App/APP.c:269:6:USART1_callBackFuction	16	static

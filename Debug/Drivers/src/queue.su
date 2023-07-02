@@ -1,0 +1,7 @@
+../Drivers/src/queue.c:14:6:queue_init	4	static
+../Drivers/src/queue.c:23:6:queue_isEmpty	16	static
+../Drivers/src/queue.c:35:6:queue_isFull	16	static
+../Drivers/src/queue.c:47:6:queue_put_newLine	16	static
+../Drivers/src/queue.c:65:6:queue_get	16	static
+../Drivers/src/queue.c:83:6:queue_push_data	24	static
+../Drivers/src/queue.c:92:10:queue_pop	16	static
